@@ -1,0 +1,6 @@
+
+{
+  "server_url": "wss://localhost:8000/ws/lap",
+  "auth_api_url": "http://localhost:8000/auth/google",
+  "send_interval": 0.5
+}

@@ -1,0 +1,36 @@
+RaceTech Privacy Policy
+
+1. Introduction
+RaceTech ("we," "us," or "our") is committed to protecting the privacy of its users and safeguarding their personal information. This Privacy Policy explains how we collect, use, store, and share information provided to us through our platform and services (collectively, the "Services").
+
+2. Information We Collect
+Personal Information: Name, email address, payment details, authentication credentials, and other identifying information provided during registration or use of the platform.
+Telemetry and Usage Data: Technical data related to racing sessions and platform usage, including lap times, location, vehicle information, and usage patterns.
+Tracking Technologies: Cookies and similar technologies used to improve user experience, enhance security, and analyze activity.
+
+3. Use of Information
+We use collected information solely for the following purposes:
+- Providing, managing, and supporting the Services;
+- Processing payments and managing subscriptions;
+- Communicating with users regarding the Services;
+- Securing the platform and detecting irregular activity;
+- Improving and enhancing the Services;
+- Complying with legal obligations.
+
+4. Sharing of Information
+Your information will not be sold to third parties. Data may be shared only:
+- With service providers assisting us in operating the Services (e.g., payment processors, hosting providers, technical support);
+- To comply with legal requirements or respond to lawful requests;
+- In connection with business transfers such as mergers or acquisitions, subject to maintaining user privacy.
+
+5. Data Security
+We implement reasonable technical and organizational measures to protect your data against unauthorized access, use, or disclosure. However, absolute security cannot be guaranteed.
+
+6. Data Retention
+Data will be retained only as long as necessary to provide the Services, meet legal requirements, or resolve disputes. Upon account deletion or termination of Services, data will be deleted or anonymized accordingly.
+
+7. User Rights
+Users have the right to access, correct, delete, or restrict processing of their personal data as applicable under relevant laws.
+
+8. Consent and Withdrawal
+By accepting the Terms of Use and Privacy Policy, users consent to the collection and processing of their data as described. Consent may be withdrawn by contacting support or deleting

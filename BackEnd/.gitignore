@@ -1,0 +1,5 @@
+.env
+/.env
+Client/.env
+BackEnd/.env
+BackEnd/migrations/env

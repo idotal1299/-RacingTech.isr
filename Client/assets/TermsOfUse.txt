@@ -1,0 +1,53 @@
+RaceTech Terms of Use – Enhanced Liability & Pricing Clauses (Professional & Robust)
+
+1. Subscription Fees, Pricing, and Service Availability
+RaceTech retains sole, exclusive, and unrestricted discretion to determine, amend, suspend, or terminate any and all pricing structures, subscription fees, packages, features, and access rights (“Subscription Terms”) offered via the Platform. Such changes may occur at any time and without prior notice.
+
+Users expressly acknowledge and agree that:
+- Pricing tiers, subscription fees, and availability of packages may fluctuate due to business strategy, market conditions, technological changes, or other factors;
+- RaceTech is under no obligation to maintain any current pricing, package, or feature indefinitely;
+- Users’ continued use of the Platform after any such changes constitutes binding acceptance of the updated Subscription Terms;
+- RaceTech may impose, modify, or remove limits on data usage, access, or content availability at its sole discretion.
+
+2. Service Provision Disclaimer and Availability
+The Services—including but not limited to telemetry data collection, storage, transmission, analytics, and content access—are provided “AS IS,” “AS AVAILABLE,” and without warranties or guarantees of any kind, whether express, implied, statutory, or otherwise, including but not limited to:
+- Fitness for a particular purpose;
+- Accuracy, completeness, or reliability of telemetry data or other content;
+- Uninterrupted or error-free service operation;
+- Security or absence of harmful components.
+
+RaceTech expressly disclaims any liability arising from:
+- Temporary or prolonged service outages, delays, interruptions, or failures;
+- Errors, inaccuracies, omissions, or distortions in telemetry data or content;
+- Loss, corruption, or unauthorized access to user data;
+- Third-party actions or failures affecting the Services.
+
+3. Limitation of Liability
+To the maximum extent permitted by law, RaceTech Entities shall not be liable for any:
+- Direct, indirect, incidental, consequential, special, exemplary, punitive, or other damages;
+- Loss of profits, revenue, data, use, goodwill, or other intangible losses;
+- Damages arising from reliance on, or use of, telemetry data or other content;
+- Damages related to subscription fee changes, service modification, termination, or refusal of access;
+- Claims arising from events beyond RaceTech’s reasonable control, including but not limited to force majeure events, technical failures, or cyber-attacks.
+
+This limitation applies regardless of the legal theory asserted, even if RaceTech was advised of the possibility of such damages.
+
+4. User Waiver and Assumption of Risk
+Users expressly waive any and all claims against RaceTech Entities relating to:
+- Subscription pricing changes, access limitations, or service discontinuation;
+- Accuracy, reliability, or completeness of data and services;
+- Any direct or indirect damages resulting from the use or inability to use the Platform.
+
+Users acknowledge that participation in RaceTech involves inherent risks related to data quality, network reliability, and third-party content, and accept such risks voluntarily.
+
+5. Indemnification
+Users agree to indemnify, defend, and hold harmless RaceTech Entities from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable attorneys’ fees) arising out of:
+- Their breach of these Terms;
+- Their violation of applicable laws or third-party rights;
+- Use or misuse of the Services;
+- Submission or transmission of any data or content that infringes on third-party rights or is unlawful.
+
+6. Termination and Refund Policy
+RaceTech reserves the right to suspend or terminate Users’ access to the Platform at any time, with or without cause or notice.
+
+All subscription fees paid are non-refundable except as required by applicable law or as expressly agreed by RaceTech in writing.

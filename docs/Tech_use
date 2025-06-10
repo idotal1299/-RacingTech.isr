@@ -1,0 +1,8 @@
+| רכיב           |      טכנולוגיה                               |
+| --------------  | ------------------------------------------ - |
+| אפליקציית מחשב | Python, pyirsdk, websockets, cache           |
+| אתר משתמשים    | React, TypeScript, Tailwind, Zustand         |
+| API (בהקמה)    | FastAPI, PostgreSQL (RDS), S3, JWT/OAuth     |
+| שיתוף נתונים   | WebSocket בטוח עם הרשאות מבוססות טוקן     |
+| הפצה           | pyinstaller + Inno Setup + תנאים משפטיים    |
+| ענן ואחסון     | AWS (API Gateway, S3, RDS, Secrets Manager   |

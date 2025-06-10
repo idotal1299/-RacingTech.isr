@@ -4,17 +4,54 @@
 
 ---
 
-## 🧱 Project Structure
 
-racetech/
-├── client/ ← Desktop app that captures telemetry from iRacing
-├── backend/ ← FastAPI server for receiving and processing data
-├── web/ ← TypeScript frontend for displaying telemetry
-├── shared/ ← Shared schemas and utilities
-├── docs/ ← Documentation, planning, changelogs
+RaceTech.isr/
+├── BackEnd/
+│   ├── API/                    # WebSocket and REST endpoint logic
+│   ├── auth/                   # Authentication and token handling
+│   ├── config.py               # Environment and settings
+│   ├── database/               # DB connection & session (postgres.py)
+│   ├── models/                 # SQLAlchemy models (user.py etc.)
+│   ├── routes/                 # FastAPI routers
+│   ├── schemas/                # Pydantic schemas
+│   ├── services/               # Business logic (user_service.py, laps.py)
+│   └── server/
+│       └── main.py             # FastAPI app definition
+│
+├── Client/
+│   ├── auth/                   # Google OAuth login
+│   ├── cache/                  # token.pickle
+│   ├── config/                 # config.json, loader, Google secrets
+│   ├── dist/                   # Installer setup (setup.iss, license, policy)
+│   ├── iracing/                # SDK wrapper, session manager
+│   ├── network/                # WebSocket client
+│   ├── utils/                  # Logging, cache fallback, process
+│   ├── main.py                 # Main PySide GUI + socket app
+│   ├── .env                    # Env vars
+│   └── requirements.txt
+│
+├── Shared/                     # Shared schemas (future)
+│
+├── web/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── entities/           # TypeScript models
+│   │   ├── pages/              # React pages (Home, Profile, Checkout)
+│   │   └── Layout.tsx
+│   └── README.md
+│
+├── docs/
+│   ├── RoadMap.md
+│   ├── AWS_ARCHITECTURE.md
+│   ├── clientdocs.md
+│   └── Tech_use
+│
+├── GitIgnore/
+│   └── .gitignore_template
+├── README.md
+└── Licence.txt
 
 
----
 
 ## 🧠 Core Components
 
@@ -47,6 +84,8 @@ racetech/
 
 ### Client
 ```bash
+
+
 cd client
 pip install -r requirements.txt
 python main.py

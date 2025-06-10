@@ -1,0 +1,13 @@
+📄 License
+
+Copyright (c) 2025 Ido Tal
+
+All rights reserved.
+
+This software and all associated files are the proprietary property of the author.
+Unauthorized copying, distribution, modification, or use of any part of this software 
+without explicit written permission from the author is strictly prohibited.
+
+Only authorized users are permitted to access and work with this software.
+
+For inquiries, contact: racingtech.isr@gmail.com

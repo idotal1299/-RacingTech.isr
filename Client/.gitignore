@@ -1,0 +1,6 @@
+# Ignore temp files
+unsent_laps.json
+client_log.txt
+__pycache__/
+*.pyc
+.env

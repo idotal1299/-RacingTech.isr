@@ -1,0 +1,4 @@
+psutil
+websocket-client
+python-dotenv
+PyYAML
