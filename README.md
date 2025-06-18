@@ -3,7 +3,7 @@
 **RaceTech** is a real-time telemetry analysis platform for *iRacing*, consisting of a desktop client, an API server, and a TypeScript-based frontend for visualizing driving data.
 
 ---
-
+```plaintext
 
 RaceTech.isr/
 ├── BackEnd/
@@ -50,7 +50,7 @@ RaceTech.isr/
 │   └── .gitignore_template
 ├── README.md
 └── Licence.txt
-
+```
 
 
 ## 🧠 Core Components
